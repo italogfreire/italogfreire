@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Sou estudante do curso de Análise e Desenvolvimento de Sistemas
-- 🤓 No momento, estou estudando HTML, CSS e JavaScript
+- 🤓 No momento, estou estudando as seguintes tecnologias: HTML, CSS e JavaScript
 - 💼 Estou em busca da minha primeira oportunidade como DEV
 - 😘 Fique a vontade para dar uma olhada nos meus códigos
 

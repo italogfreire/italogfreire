@@ -7,7 +7,7 @@
 - 😘 Fique a vontade para dar uma olhada nos meus códigos
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/italogfreire">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italogfreire&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italogfreire&layout=compact&langs_count=7&theme=gotham"/>
 </div>
